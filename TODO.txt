@@ -1,0 +1,2 @@
+Fix progress update. Should be additive.
+And why does the program overwrite files that are already compressed?
